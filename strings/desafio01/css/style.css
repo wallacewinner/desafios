@@ -1,0 +1,27 @@
+/*CSS*/
+body{
+
+}
+.container{
+  width: 100%;
+  background-color: #dddddd;
+}
+.colleft{
+  width: 45%;
+  float: left;
+  border-style: solid;
+  padding: 20pt;
+}
+.colright{
+  width: 45%;
+  float: right;
+  padding: 20pt;
+  border-style: solid;
+}
+
+.text{
+  margin: auto;
+  max-width:50%;
+  text-align: justify;
+  text-align-last: justify;
+}
